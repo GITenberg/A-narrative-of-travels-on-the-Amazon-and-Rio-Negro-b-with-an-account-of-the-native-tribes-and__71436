@@ -1,0 +1,29 @@
+_repo: A-narrative-of-travels-on-the-Amazon-and-Rio-Negro-b-with-an-account-of-the-native-tribes-and__71436
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Alfred R.
+    gutenberg_agent_id: '56232'
+    url: http://www.gutenberg.org/2009/agents/56232
+description: ''
+gutenberg_issued: '2023-08-18'
+identifiers:
+  gutenberg: '71436'
+language: en
+pgterms:marc904: https://archive.org/details/narrativeoftrav00wall
+pgterms:marc905: 20210818122945wallace
+pgterms:marc906: '1853'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Robert Tonsing, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bReeve and co., $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A narrative of travels on the Amazon and Rio Negro, : $b with an account of
+  the native tribes, and observations on the climate, geology, and natural history
+  of the Amazon valley'
+url: http://www.gutenberg.org/ebooks/71436
